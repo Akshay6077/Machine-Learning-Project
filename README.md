@@ -36,6 +36,3 @@ A comparative analysis project implementing three distinct machine learning appr
 - Interactive hyperparameter exploration
 - Visual performance comparisons
 
-## Getting Started
-
-### Prerequisites
